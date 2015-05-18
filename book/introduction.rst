@@ -22,6 +22,7 @@ This book will introduce the ZODB in detail and will cover its features
 step-by-step, using a hands-on approach with many code examples and practical
 tips.
 
+
 Looking at the ZODB from 10,000 feet
 ====================================
 
@@ -238,7 +239,7 @@ ZODB use.
 Is the ZODB a NoSQL database?
 =============================
 
-In recent years, the term NoSQL has been consitently used to refer to a "new"
+In recent years, the term NoSQL has been consistently used to refer to a "new"
 breed of database systems which basically do not use the relational paradigm.
 Here is one semi-official definition of NoSQL, taken from
 http://nosql-database.org/:
